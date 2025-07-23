@@ -1,1 +1,1 @@
-# Email-Service
+# Email-Service using node.js and Express.js to send emails as text and html.
